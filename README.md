@@ -12,7 +12,6 @@ I Build things sometimes...
 ### 💼 Current Ventures
 - 📱 **Qless:** Co-Founder (Mobile platform development)
 - 💳 **@QWICPAY:** Co-Founder (Fintech & e-commerce payments)
-- 💊 **@GetDose:** Co-Founder (MedTech)
 - 🧑‍⚕️ **@SpinalTap:** Developer (MedTech)
 
 ### ⚡ Quick Facts
@@ -20,5 +19,4 @@ I Build things sometimes...
 - I've been involved in everything from ground-up avionics in experimental aircraft to deploying commercial payment software.
 - Fuelled exclusively by black espresso. 
 
-### 📫 Connect
-joshua@getdose.co.za
+
